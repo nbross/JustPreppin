@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/JustPreppin/static/css/main.b3f5082a.css",
-    "main.js": "/JustPreppin/static/js/main.b6182221.js",
-    "static/media/Warhouse.jpg": "/JustPreppin/static/media/Warhouse.389f2679f20e6442b9b7.jpg",
-    "static/media/JP Logo Trimmed.png": "/JustPreppin/static/media/JP Logo Trimmed.79d1b7353e355afc1b65.png",
-    "index.html": "/JustPreppin/index.html",
-    "main.b3f5082a.css.map": "/JustPreppin/static/css/main.b3f5082a.css.map",
-    "main.b6182221.js.map": "/JustPreppin/static/js/main.b6182221.js.map"
+    "main.css": "/static/css/main.b3f5082a.css",
+    "main.js": "/static/js/main.e864f838.js",
+    "static/media/Warhouse.jpg": "/static/media/Warhouse.389f2679f20e6442b9b7.jpg",
+    "static/media/JP Logo Trimmed.png": "/static/media/JP Logo Trimmed.79d1b7353e355afc1b65.png",
+    "index.html": "/index.html",
+    "main.b3f5082a.css.map": "/static/css/main.b3f5082a.css.map",
+    "main.e864f838.js.map": "/static/js/main.e864f838.js.map"
   },
   "entrypoints": [
     "static/css/main.b3f5082a.css",
-    "static/js/main.b6182221.js"
+    "static/js/main.e864f838.js"
   ]
 }
