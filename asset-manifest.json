@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JustPreppin/static/css/main.b3f5082a.css",
+    "main.js": "/JustPreppin/static/js/main.b6182221.js",
+    "static/media/Warhouse.jpg": "/JustPreppin/static/media/Warhouse.389f2679f20e6442b9b7.jpg",
+    "static/media/JP Logo Trimmed.png": "/JustPreppin/static/media/JP Logo Trimmed.79d1b7353e355afc1b65.png",
+    "index.html": "/JustPreppin/index.html",
+    "main.b3f5082a.css.map": "/JustPreppin/static/css/main.b3f5082a.css.map",
+    "main.b6182221.js.map": "/JustPreppin/static/js/main.b6182221.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3f5082a.css",
+    "static/js/main.b6182221.js"
+  ]
+}
