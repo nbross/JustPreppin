@@ -4,7 +4,6 @@ import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Pricing from "./components/Pricing";
 import Services from "./components/Services";
-// import Resume from "./components/Resume";
 
 function App() {
   return (
@@ -13,7 +12,6 @@ function App() {
       <About />
       <Services />
       <Pricing />
-      {/* <Resume /> */}
       <Contact />
     </main>
   );
